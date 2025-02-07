@@ -14,6 +14,8 @@ Welcome to my GitHub profile! Here you'll find a collection of my personal proje
 <div align="right">
   <img src="https://avatars.githubusercontent.com/u/71880408?v=4" width="88" style="border-radius: 50%;">
 </div>
+<img src="https://avatars.githubusercontent.com/u/45090349?v=4" width="88" align="right" style="mask-image: radial-gradient(circle, white 60%, rgba(0,0,0,0) 100%);">
+
 
 Hi, I'm **SadalsuudICU**. I am a developer who loves working on projects involving:
 - **Java Spring Boot** for backend services
