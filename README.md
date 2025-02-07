@@ -11,7 +11,9 @@ Welcome to my GitHub profile! Here you'll find a collection of my personal proje
 <tr><td>
 📖 About Me
 <!-- <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" /> -->
-<img align="right" width="88" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/71880408?v=4" />
+<div align="right">
+  <img src="https://avatars.githubusercontent.com/u/71880408?v=4" width="88" style="border-radius: 50%;">
+</div>
 
 Hi, I'm **SadalsuudICU**. I am a developer who loves working on projects involving:
 - **Java Spring Boot** for backend services
