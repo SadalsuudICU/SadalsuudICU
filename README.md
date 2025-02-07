@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my personal proje
 📖 About Me
 <!-- <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" /> -->
 <div align="right">
-  <img src="https://avatars.githubusercontent.com/u/71880408?v=4" width="88" style="border-radius: 50%;overflow: hidden">
+  <img src="https://avatars.githubusercontent.com/u/71880408?v=4" width="88" style="border-radius: 50%;">
 </div>
 
 
