@@ -1,5 +1,5 @@
 <center>
-### Welcome to SadalsuudICU's GitHub!
+# Welcome to SadalsuudICU's GitHub!
 </center>
 
 &nbsp;&nbsp;Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. Feel free to check out my repositories and build something with me!
