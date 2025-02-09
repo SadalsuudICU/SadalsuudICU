@@ -5,11 +5,11 @@
 Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. Feel free to check out my repositories and build something with me!
 
 
-## 🤺 Self-introduction
+## 📖 About Me
 
 <table>
 <tr><td>
-📖 About Me
+🐳 Profile
 <!-- <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" /> -->
 <img align="right" width="88" src="/user-240207-removebg.png" />
 
@@ -38,16 +38,6 @@ I also have a strong interest in **data security**, **cloud services**, and **de
 
 </table>
 
-
-
-## 📊 GitHub statistics
-<!-- GitHub 数据统计 -->
-
-![GitHub Streak](https://github-readme-streak-stats-dusky-ten.vercel.app?user=SadalsuudICU&theme=dark&hide_border=true)
-
-<!-- metrics 基础资料 -->
-<img  src="/github-metrics.svg"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake.svg">
@@ -56,11 +46,6 @@ I also have a strong interest in **data security**, **cloud services**, and **de
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadalsuudICU&bg_color=100e0e&color=f2f2f2&line=f0a8eb&point=787878&area=true&hide_border=true)
 
-## 💬 Contributions
-
-I actively contribute to several open-source projects. You can find my contributions and repositories listed below. If you’d like to collaborate, feel free to reach out!
-
----
 
 ## 🚀 Let's Build Something Amazing Together!
 
