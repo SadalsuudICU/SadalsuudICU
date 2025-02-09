@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to SadalsuudICU's GitHub!</h1>
+  <h5>Welcome to SadalsuudICU's GitHub!</h1>
 </div>
 
 Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. Feel free to check out my repositories and build something with me!
@@ -43,6 +43,7 @@ I also have a strong interest in **data security**, **cloud services**, and **de
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadalsuudICU&bg_color=100e0e&color=f2f2f2&line=f0a8eb&point=787878&area=true&hide_border=true)
 
