@@ -1,5 +1,5 @@
 <div align="center">
-  <h5>Welcome to SadalsuudICU's GitHub!</h1>
+  <h3>Welcome to SadalsuudICU's GitHub!</h1>
 </div>
 
 Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. Feel free to check out my repositories and build something with me!
