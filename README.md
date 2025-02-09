@@ -1,8 +1,8 @@
 <div align="center">
-  <h3>Welcome to SadalsuudICU's GitHub!</h3>
+  <h1 style="margin: 0;">Welcome to SadalsuudICU's GitHub!</h1>
 </div>
 
-/tWelcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. Feel free to check out my repositories and build something with me!
+&nbsp;&nbsp;Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. Feel free to check out my repositories and build something with me!
 
 
 ##### 📖 About Me
