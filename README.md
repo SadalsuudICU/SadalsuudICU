@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. Feel free to check out my repositories and build something with me!
 
 
-##### 📖 About Me
+#### 📖 About Me
 
 <table>
 <tr><td>
@@ -48,7 +48,7 @@ I also have a strong interest in **data security**, **cloud services**, and **de
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadalsuudICU&bg_color=100e0e&color=f2f2f2&line=f0a8eb&point=787878&area=true&hide_border=true)
 
 
-##### 🚀 Let's Build Something Amazing Together!
+#### 🚀 Let's Build Something Amazing Together!
 
 If you're interested in working on a project together or have an exciting idea, don't hesitate to reach out. Happy coding!
 
