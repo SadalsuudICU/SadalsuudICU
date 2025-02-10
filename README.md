@@ -1,10 +1,10 @@
 <div align="center" style="margin-top: 0;">
   <h3>Welcome to SadalsuudICU's GitHub!</h3>
+  <img src="https://count.getloli.com/@Sadalsuud?name=Sadalsuud&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visit counter since 2025.2.10" style="margin: 10px 0;">
+  <p style="max-width: 600px; margin: 0 auto; font-size: 16px;">
+    Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. Feel free to check out my repositories and build something with me!
+  </p>
 </div>
-
-![since 2025.2.10](https://count.getloli.com/@Sadalsuud?name=Sadalsuud&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-
-&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. Feel free to check out my repositories and build something with me!
 
 
 #### 📖 About Me
