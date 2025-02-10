@@ -2,6 +2,8 @@
   <h3>Welcome to SadalsuudICU's GitHub!</h3>
 </div>
 
+![](https://count.getloli.com/@Sadalsuud?name=Sadalsuud&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)（2025-2-10+）
+
 &nbsp;&nbsp;&nbsp;&nbsp;Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. Feel free to check out my repositories and build something with me!
 
 
