@@ -47,7 +47,7 @@ I also have a strong interest in **data security**, **cloud services**, and **de
 </picture>
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadalsuudICU&bg_color=100e0e&color=f2f2f2&line=f0a8eb&point=787878&area=true&hide_border=true)
+![Sadalsuud's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadalsuudICU&bg_color=100e0e&color=f2f2f2&line=f0a8eb&point=787878&area=true&hide_border=true)
 
 
 #### 🚀 Let's Build Something Amazing Together!
